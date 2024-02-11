@@ -1,0 +1,23 @@
+FILE NAME: TC3.Sales.json
+PRODUCTOS                         PRECIO UNITARIO    CANTIDAD    SUBTOTAL
+------------------------------  -----------------  ----------  ----------
+Corn                                        13.55        1665    22560.8
+Cuban sandwiche                             18.5            2       37
+French fries                                18.32          37      677.84
+Fresh blueberries                           21.01        3744    78661.4
+Fresh stawberry                             28.59         221     6318.39
+Green smoothie                              17.68         580    10254.4
+Ground beef meat burger                     11.73         146     1712.58
+Hazelnut in black ceramic bowl              27.35           7      191.45
+Homemade bread                              17.48         466     8145.68
+Plums                                       19.18        1231    23610.6
+Raw legums                                  17.11          13      222.43
+Rustic breakfast                            21.32         200     4264
+Sandwich with salad                         22.48          23      517.04
+Smoothie with chia seeds                    25.26          61     1540.86
+Sweet fresh stawberry                       29.45         221     6508.45
+Tomatoes                                    26.03           1       26.03
+=========================================================================
+TOTAL: 165248.91999999998
+=========================================================================
+TIME: 0.006997585296630859 SEG
